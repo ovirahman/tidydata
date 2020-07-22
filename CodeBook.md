@@ -1,11 +1,6 @@
 # Codebook
 
----
-title: "CodeBook"
-author: "ovi"
-date: "7/22/2020"
-output: html_document
----
+
 
 ### Variable 1: activity
 
